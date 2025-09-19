@@ -19,3 +19,6 @@
 * **База данных:** [PostgreSQL](https://www.postgresql.org/) (планируется внедрение в ближайшее время)
 * **Другие инструменты:** [Docker](https://www.docker.com/), [GitHub Actions](https://github.com/features/actions) ...
 
+## 📝 История Обновлений
+Подробная история всех изменений ведется в файле (global) [CHANGELOG.md](./CHANGELOG.md).
+* **User service:** [CHANGELOG.md](./src/java/user-service/CHANGELOG.md).
