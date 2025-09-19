@@ -1,6 +1,6 @@
-package org.example.Controller;
+package ru.neero.wgparser.Controller;
 
-import org.example.model.WeakAuraEntry;
+import ru.neero.wgparser.model.WeakAuraEntry;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,8 +14,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 @Controller
 @RequestMapping("/")

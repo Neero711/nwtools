@@ -1,4 +1,4 @@
-package org.example.model;
+package ru.neero.wgparser.model;
 
 public class WeakAuraEntry {
     private String name;

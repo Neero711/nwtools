@@ -1,7 +1,7 @@
-package org.example.Controller;
+package ru.neero.wgparser.Controller;
 
 
-import org.example.model.WeakAuraEntry;
+import ru.neero.wgparser.model.WeakAuraEntry;
 import org.junit.jupiter.api.Test;
 import org.springframework.mock.web.MockMultipartFile;
 import java.io.IOException;
